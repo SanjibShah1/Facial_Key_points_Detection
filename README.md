@@ -30,5 +30,3 @@ This project features a facial key point detection system using a modified VGG16
    ```
     pip install requirements.txt
    ```
-## Inference
-![Alt text](https://github.com/SanjibShah1/Facial_Key_points_Detection/main/output/version2/inference.png)
